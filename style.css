@@ -1,0 +1,9 @@
+#contenedor{width: 100%;margin-left: auto;margin-right: auto;}
+#encabezado{width: 20%;height: 100%}
+.logo{width: 20%;height: 100px;background-color: #040555; float:left;}
+.titulo{width: 80%;height: 100px;background-color: #A99EBE; float:left;}
+#menu{width: 100%;height: 50px;background-color: green; clear:both;}
+#contenido{width: 100%;}
+.imgprincipal{width: 100%;height: 400px;background-color: blue;}
+.inferior{width: 33.33%; height: 300px; background-color: purple;float:left;}
+#pie{width: 100%;height: 75px; background-color: brown;clear: both}

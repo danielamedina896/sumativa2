@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Maquetacion de pagina</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<div id="contenedor">
+
+		<div id="encabezado">
+			<div class="logo"><img src="logo.jpg"></div>
+			<div class="titulo"Apple</div>
+		</div>
+
+		<div id="menu">Inicio | Productos | Galeria | Contactanos </div>
+
+		<div id="contenido">
+			<div class="imgpricipal"><img src="imagensota.jpg"></div>
+			<div class="inferior">parte1</div>
+			<div class="inferior">parte2</div>
+			<div class="inferior">parte3</div>
+		</div>
+
+		<div id="pie">Todos los derechos reservados Daniela Medina 2021 &copy;</div>
+	</div>
+</body<
+</html>
